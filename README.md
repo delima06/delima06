@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/delima06">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Desenvolvedor(a);Apaixonado(a)+por+Tecnologia;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Desenvolvedor;Apaixonado+por+Tecnologia;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </div>
 
